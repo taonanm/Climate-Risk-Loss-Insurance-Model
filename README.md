@@ -15,4 +15,4 @@ The results show that property exposure and historical damage are the strongest 
 
 ## Tableau Dashboard
 
-<img width="1325" height="835" alt="image" src="https://github.com/user-attachments/assets/9759910e-5a30-4651-8080-802f211c5410" />
+<img width="1324" height="835" alt="image" src="https://github.com/user-attachments/assets/d664b96d-97c7-431c-8bf6-8bc8d3366edb" />
