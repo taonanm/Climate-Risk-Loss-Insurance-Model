@@ -12,3 +12,7 @@ The results show that property exposure and historical damage are the strongest 
 -Python (pandas, numpy, sklearn)
 
 -Tableau
+
+## Tableau Dashboard
+
+<img width="1325" height="835" alt="image" src="https://github.com/user-attachments/assets/9759910e-5a30-4651-8080-802f211c5410" />
